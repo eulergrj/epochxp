@@ -31,7 +31,7 @@ I originally created EpochXP for **my own personal use**, but a few friends aske
 ## Supporting the Project  
 If you find EpochXP useful and would like to support me, you can:  
 
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/)  
+[![Ko-fi](https://img.shields.io/badge/Support%20me%20on-Ko--fi-ff5f5f?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/eulergrj)  
 
 Your support helps motivate me to continue improving and maintaining the addon.  
 
