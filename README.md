@@ -49,7 +49,7 @@ Your support helps motivate me to continue improving and maintaining the addon.
 ## Troubleshooting  
 If you run into problems, here are some quick things to try:  
 
-- 🔄 **Reload your UI** with the `/reload` command — this fixes many display issues.  
+- 🔄 **Reload your UI** with the `/reload` command, this fixes many display issues.  
 - 🗺️ **Waypoints missing or wrong?** Toggle the window by clicking the minimap icon to regenerate them.  
 - 🧹 **Addon settings corrupted?** Close WoW and delete the file:  
 
